@@ -1,0 +1,7 @@
+/* work in progress from: https://we7.fogbugz.com/default.asp?W487 */
+.search-album-results {
+  position:~absolute;
+  right: 10px; top: 0;
+  width:~100px; height: 100px;
+  background: #fc0;
+}
